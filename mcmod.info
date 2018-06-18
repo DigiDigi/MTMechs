@@ -1,0 +1,17 @@
+[
+{
+  "modid" : "mtmechs",
+  "name" : "Magitek Mechs",
+  "description" : "*Chunk* *Chunk* *Chunk*.. ",
+  "version" : "0.27",
+  "mcversion": "1.6.2",
+  "url" : "",
+  "updateUrl" : "",
+  "authorList" : ["DigiDigi"],
+  "credits" : "",
+  "logoFile" : "",
+  "screenshots" : [],
+  "parent" : "",
+  "dependencies" : []
+}
+]
