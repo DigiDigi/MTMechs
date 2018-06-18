@@ -1,5 +1,4 @@
-Magitek Mechs for Minecraft 1.6.2
-v0.27
+Magitek Mechs v0.27 for Minecraft 1.6.2
 =============
 
 Note: Not currently being maintained. Not compatible with modern versions of minecraft.
