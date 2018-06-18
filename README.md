@@ -10,3 +10,6 @@ Currently included:
 * A walking rideable Magitek and Proto Armor.
 * A mostly functional heat beam. Burns stuff. Smelts stuff.
 * Working multiplayer.
+
+![Magitek Armor](/screenshots/mtmsnow.png?raw=true)
+![Proto Armor](/screenshots/mtmproto.png?raw=true)
